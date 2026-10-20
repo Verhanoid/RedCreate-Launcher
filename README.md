@@ -1,2 +1,2 @@
-# RedCreate
-Майнкрафт сервер
+# RedCreate Launcher
+Майнкрафт лаунчер проекта RedCreate
