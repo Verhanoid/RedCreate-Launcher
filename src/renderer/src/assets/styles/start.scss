@@ -1,0 +1,28 @@
+#start {
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#start h1 {
+    font-size: 80px;
+    font-weight: 1000;
+    letter-spacing:5px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+#start p {
+    font-size: 20px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+
+.startImage {
+    width: 300px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+}
